@@ -1,0 +1,1902 @@
+canonical_identifier: bkk:krp/KR3ec078/v1
+canonical_location: https://kanripo.org/bkk/KR3ec078/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 藥徵續編
+  identifiers:
+    krp: KR3ec078
+  tags:
+    kr-categories: KR3ec
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec078.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ec078_000.yaml, hash: 'sha256:d953712b63c244ff4ed53121ac854c26469a53bcd4ec5f8092cb4b9928b6a11c'}
+  - {seq: 1, filename: KR3ec078_001.yaml, hash: 'sha256:3028323ec907141e2316e2fb616ed24cc5fdc23be11bb5489064c571156b8158'}
+  - {seq: 3, filename: KR3ec078_003.yaml, hash: 'sha256:bd90190f19690aff54245fff699a458ac900d4c8e228700979d25c266cb3ffc0'}
+  - {seq: 0, filename: KR3ec078_000.yaml, hash: 'sha256:d953712b63c244ff4ed53121ac854c26469a53bcd4ec5f8092cb4b9928b6a11c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ec078_000.markers.yaml, hash: 'sha256:8b4068bdc692af1c021f817156df576d0fde39a863d9b1b1b47a8140277351c4'}
+  - {seq: 1, role: markers, filename: assets/KR3ec078_001.markers.yaml, hash: 'sha256:e0c89184c7775ffaf2d82194c1972bdae48ddcf08b127868552b0c5a1bddb019'}
+  - {seq: 3, role: markers, filename: assets/KR3ec078_003.markers.yaml, hash: 'sha256:4d381c487f45c046c92b0ce43b579d10a1509bd4f60e342daa44c797cd309d0e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ec078_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 197
+  label: 續編序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 5627
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 691
+  label: 赤石脂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d2d4
+    span:
+    - body
+    - 17
+    - 88
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d2d5
+    span:
+    - body
+    - 88
+    - 638
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d2d6
+    span:
+    - body
+    - 638
+    - 691
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3d3
+    span:
+    - body
+    - 691
+    - 1478
+  label: 栝樓根
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d3d4
+    span:
+    - body
+    - 697
+    - 885
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d3d5
+    span:
+    - body
+    - 885
+    - 1118
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d3d6
+    span:
+    - body
+    - 1118
+    - 1369
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d3d7
+    span:
+    - body
+    - 1369
+    - 1478
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3d4
+    span:
+    - body
+    - 1478
+    - 2663
+  label: 蜀漆
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d4d4
+    span:
+    - body
+    - 1499
+    - 1636
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d4d5
+    span:
+    - body
+    - 1636
+    - 2606
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d4d6
+    span:
+    - body
+    - 2606
+    - 2663
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3d5
+    span:
+    - body
+    - 2663
+    - 5627
+  label: 生薑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d5d4
+    span:
+    - body
+    - 2676
+    - 3072
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d5d5
+    span:
+    - body
+    - 3072
+    - 5122
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d5d6
+    span:
+    - body
+    - 5122
+    - 5530
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ec078_jc_001-d3.d5d7
+    span:
+    - body
+    - 5530
+    - 5627
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 16489
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 1961
+  label: 桃仁
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d2d4
+    span:
+    - body
+    - 24
+    - 229
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d2d5
+    span:
+    - body
+    - 229
+    - 1854
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d2d6
+    span:
+    - body
+    - 1854
+    - 1933
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d2d7
+    span:
+    - body
+    - 1933
+    - 1961
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d3
+    span:
+    - body
+    - 1961
+    - 3132
+  label: 巴豆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d3d4
+    span:
+    - body
+    - 1982
+    - 2249
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d3d5
+    span:
+    - body
+    - 2249
+    - 2588
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d3d6
+    span:
+    - body
+    - 2588
+    - 3084
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d3d7
+    span:
+    - body
+    - 3084
+    - 3132
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d4
+    span:
+    - body
+    - 3132
+    - 4861
+  label: 蜜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d4d4
+    span:
+    - body
+    - 3145
+    - 3546
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d4d5
+    span:
+    - body
+    - 3546
+    - 4271
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d4d6
+    span:
+    - body
+    - 4271
+    - 4751
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d4d7
+    span:
+    - body
+    - 4751
+    - 4861
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d5
+    span:
+    - body
+    - 4861
+    - 6536
+  label: 䗪蟲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d5d4
+    span:
+    - body
+    - 4881
+    - 5076
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d5d5
+    span:
+    - body
+    - 5076
+    - 6471
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d5d6
+    span:
+    - body
+    - 6471
+    - 6536
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d6
+    span:
+    - body
+    - 6536
+    - 6911
+  label: 虻蟲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d6d4
+    span:
+    - body
+    - 6561
+    - 6674
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d6d5
+    span:
+    - body
+    - 6674
+    - 6803
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d6d6
+    span:
+    - body
+    - 6803
+    - 6911
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d7
+    span:
+    - body
+    - 6911
+    - 8354
+  label: 阿膠
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d7d4
+    span:
+    - body
+    - 6927
+    - 7079
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d7d5
+    span:
+    - body
+    - 7079
+    - 8030
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d7d6
+    span:
+    - body
+    - 8030
+    - 8287
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d7d7
+    span:
+    - body
+    - 8287
+    - 8354
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d8
+    span:
+    - body
+    - 8354
+    - 9115
+  label: 粳米
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d8d18
+    span:
+    - body
+    - 8418
+    - 8453
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d8d19
+    span:
+    - body
+    - 8453
+    - 8881
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d8d20
+    span:
+    - body
+    - 8881
+    - 9115
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d9
+    span:
+    - body
+    - 9115
+    - 9131
+  label: 小麥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d10
+    span:
+    - body
+    - 9131
+    - 9169
+  label: 大麥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d11
+    span:
+    - body
+    - 9169
+    - 10081
+  label: 粉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d11d6
+    span:
+    - body
+    - 9181
+    - 9461
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d11d7
+    span:
+    - body
+    - 9461
+    - 10081
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d12
+    span:
+    - body
+    - 10081
+    - 10130
+  label: 赤小豆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d13
+    span:
+    - body
+    - 10130
+    - 10256
+  label: 膠飴
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d13d8
+    span:
+    - body
+    - 10170
+    - 10256
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d14
+    span:
+    - body
+    - 10256
+    - 10319
+  label: 酒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d14d10
+    span:
+    - body
+    - 10286
+    - 10319
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d15
+    span:
+    - body
+    - 10319
+    - 10380
+  label: 醇酒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d15d6
+    span:
+    - body
+    - 10338
+    - 10380
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d16
+    span:
+    - body
+    - 10380
+    - 10434
+  label: 清酒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d16d6
+    span:
+    - body
+    - 10396
+    - 10434
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d17
+    span:
+    - body
+    - 10434
+    - 10466
+  label: 法醋
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d17d6
+    span:
+    - body
+    - 10445
+    - 10466
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d18
+    span:
+    - body
+    - 10466
+    - 10629
+  label: 苦酒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d18d6
+    span:
+    - body
+    - 10492
+    - 10629
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d19
+    span:
+    - body
+    - 10629
+    - 10684
+  label: 美酒醯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d20
+    span:
+    - body
+    - 10684
+    - 11875
+  label: 白酒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d20d10
+    span:
+    - body
+    - 10714
+    - 11341
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d20d11
+    span:
+    - body
+    - 11341
+    - 11743
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d20d12
+    span:
+    - body
+    - 11743
+    - 11875
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d21
+    span:
+    - body
+    - 11875
+    - 11908
+  label: 漿水
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d22
+    span:
+    - body
+    - 11908
+    - 12127
+  label: 清漿水
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d22d6
+    span:
+    - body
+    - 11926
+    - 11948
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d22d7
+    span:
+    - body
+    - 11948
+    - 12127
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d23
+    span:
+    - body
+    - 12127
+    - 12392
+  label: 白飲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d23d6
+    span:
+    - body
+    - 12154
+    - 12166
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d23d7
+    span:
+    - body
+    - 12166
+    - 12392
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d24
+    span:
+    - body
+    - 12392
+    - 12503
+  label: 飲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d25
+    span:
+    - body
+    - 12503
+    - 12592
+  label: 暖水
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d25d4
+    span:
+    - body
+    - 12518
+    - 12592
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d26
+    span:
+    - body
+    - 12592
+    - 12605
+  label: 沸湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d27
+    span:
+    - body
+    - 12605
+    - 12646
+  label: 麻沸湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d27d6
+    span:
+    - body
+    - 12629
+    - 12646
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d28
+    span:
+    - body
+    - 12646
+    - 12655
+  label: 雞子白
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d29
+    span:
+    - body
+    - 12655
+    - 12669
+  label: 雞子黃
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d30
+    span:
+    - body
+    - 12669
+    - 12679
+  label: 雞屎白
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d31
+    span:
+    - body
+    - 12679
+    - 12714
+  label: 馬通汁
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d31d6
+    span:
+    - body
+    - 12688
+    - 12714
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d32
+    span:
+    - body
+    - 12714
+    - 12723
+  label: 豬膏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d33
+    span:
+    - body
+    - 12723
+    - 12792
+  label: 豬脂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d33d6
+    span:
+    - body
+    - 12733
+    - 12792
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d34
+    span:
+    - body
+    - 12792
+    - 12835
+  label: 豬膚
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d34d6
+    span:
+    - body
+    - 12800
+    - 12835
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d35
+    span:
+    - body
+    - 12835
+    - 12915
+  label: 豬膽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d35d6
+    span:
+    - body
+    - 12860
+    - 12915
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d36
+    span:
+    - body
+    - 12915
+    - 12929
+  label: 獺肝
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d36d6
+    span:
+    - body
+    - 12923
+    - 12929
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d37
+    span:
+    - body
+    - 12929
+    - 12953
+  label: 羊膽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d38
+    span:
+    - body
+    - 12953
+    - 12965
+  label: 羊肉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d39
+    span:
+    - body
+    - 12965
+    - 13017
+  label: 蜘蛛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d39d6
+    span:
+    - body
+    - 12973
+    - 13017
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d40
+    span:
+    - body
+    - 13017
+    - 13058
+  label: 蠐螬
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d40d6
+    span:
+    - body
+    - 13026
+    - 13058
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d41
+    span:
+    - body
+    - 13058
+    - 13469
+  label: 白魚
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d41d6
+    span:
+    - body
+    - 13068
+    - 13119
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d41d7
+    span:
+    - body
+    - 13119
+    - 13469
+  label: 互考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d42
+    span:
+    - body
+    - 13469
+    - 13907
+  label: 衣中白魚
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d42d4
+    span:
+    - body
+    - 13733
+    - 13907
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d43
+    span:
+    - body
+    - 13907
+    - 14060
+  label: 文蛤
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d43d6
+    span:
+    - body
+    - 13923
+    - 13981
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d43d7
+    span:
+    - body
+    - 13981
+    - 14060
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d44
+    span:
+    - body
+    - 14060
+    - 14096
+  label: 雄黃
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d44d6
+    span:
+    - body
+    - 14074
+    - 14096
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d45
+    span:
+    - body
+    - 14096
+    - 14156
+  label: 礬石
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d45d6
+    span:
+    - body
+    - 14112
+    - 14156
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d46
+    span:
+    - body
+    - 14156
+    - 14480
+  label: 戎鹽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d46d6
+    span:
+    - body
+    - 14166
+    - 14182
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d46d7
+    span:
+    - body
+    - 14182
+    - 14480
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d47
+    span:
+    - body
+    - 14480
+    - 14488
+  label: 雲母
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d48
+    span:
+    - body
+    - 14488
+    - 14545
+  label: 禹餘糧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d48d6
+    span:
+    - body
+    - 14501
+    - 14545
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d49
+    span:
+    - body
+    - 14545
+    - 14605
+  label: 代赭石
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d49d6
+    span:
+    - body
+    - 14558
+    - 14605
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d50
+    span:
+    - body
+    - 14605
+    - 14711
+  label: 真朱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d50d6
+    span:
+    - body
+    - 14625
+    - 14671
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d50d7
+    span:
+    - body
+    - 14671
+    - 14711
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d51
+    span:
+    - body
+    - 14711
+    - 14731
+  label: 黃丹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d51d6
+    span:
+    - body
+    - 14724
+    - 14731
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d52
+    span:
+    - body
+    - 14731
+    - 14774
+  label: 白粉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d52d6
+    span:
+    - body
+    - 14743
+    - 14774
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d53
+    span:
+    - body
+    - 14774
+    - 14791
+  label: 黃土
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d53d6
+    span:
+    - body
+    - 14782
+    - 14791
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d54
+    span:
+    - body
+    - 14791
+    - 14808
+  label: 苦參
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d55
+    span:
+    - body
+    - 14808
+    - 14863
+  label: 狼牙
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d55d6
+    span:
+    - body
+    - 14822
+    - 14834
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d55d7
+    span:
+    - body
+    - 14834
+    - 14863
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d56
+    span:
+    - body
+    - 14863
+    - 14913
+  label: 蒲灰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d56d6
+    span:
+    - body
+    - 14871
+    - 14913
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d57
+    span:
+    - body
+    - 14913
+    - 14961
+  label: 葦莖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d57d6
+    span:
+    - body
+    - 14921
+    - 14961
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d58
+    span:
+    - body
+    - 14961
+    - 15055
+  label: 知母
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d58d8
+    span:
+    - body
+    - 14988
+    - 15055
+  label: 考證
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d59
+    span:
+    - body
+    - 15055
+    - 15070
+  label: 麥門冬
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d60
+    span:
+    - body
+    - 15070
+    - 15080
+  label: 蛇床子
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d61
+    span:
+    - body
+    - 15080
+    - 15111
+  label: 麻子仁
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d61d6
+    span:
+    - body
+    - 15090
+    - 15111
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d62
+    span:
+    - body
+    - 15111
+    - 15217
+  label: 土瓜根
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d62d6
+    span:
+    - body
+    - 15126
+    - 15186
+  label: 辨誤
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d62d7
+    span:
+    - body
+    - 15186
+    - 15217
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d63
+    span:
+    - body
+    - 15217
+    - 15228
+  label: 干蘇葉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d64
+    span:
+    - body
+    - 15228
+    - 15243
+  label: 蔥白
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d65
+    span:
+    - body
+    - 15243
+    - 15287
+  label: 敗醬
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d65d6
+    span:
+    - body
+    - 15255
+    - 15287
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d66
+    span:
+    - body
+    - 15287
+    - 15313
+  label: 瓜子
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d66d6
+    span:
+    - body
+    - 15297
+    - 15313
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d67
+    span:
+    - body
+    - 15313
+    - 15335
+  label: 瓜瓣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d67d6
+    span:
+    - body
+    - 15321
+    - 15335
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d68
+    span:
+    - body
+    - 15335
+    - 15354
+  label: 蕘花
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d69
+    span:
+    - body
+    - 15354
+    - 15364
+  label: 瞿麥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d70
+    span:
+    - body
+    - 15364
+    - 15377
+  label: 薯蕷
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d71
+    span:
+    - body
+    - 15377
+    - 15387
+  label: 商陸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d72
+    span:
+    - body
+    - 15387
+    - 15394
+  label: 海藻
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d73
+    span:
+    - body
+    - 15394
+    - 15416
+  label: 葵子
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d73d6
+    span:
+    - body
+    - 15404
+    - 15416
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d74
+    span:
+    - body
+    - 15416
+    - 15424
+  label: 乾漆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d75
+    span:
+    - body
+    - 15424
+    - 15441
+  label: 皂莢
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d76
+    span:
+    - body
+    - 15441
+    - 15453
+  label: 蜀椒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d77
+    span:
+    - body
+    - 15453
+    - 15467
+  label: 椒目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d78
+    span:
+    - body
+    - 15467
+    - 15475
+  label: 烏梅
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d79
+    span:
+    - body
+    - 15475
+    - 15493
+  label: 秦皮
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d80
+    span:
+    - body
+    - 15493
+    - 15516
+  label: 蘖皮
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d81
+    span:
+    - body
+    - 15516
+    - 15525
+  label: 山茱萸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d82
+    span:
+    - body
+    - 15525
+    - 15549
+  label: 柏葉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d82d6
+    span:
+    - body
+    - 15533
+    - 15549
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d83
+    span:
+    - body
+    - 15549
+    - 15580
+  label: 竹葉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d83d6
+    span:
+    - body
+    - 15559
+    - 15580
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d84
+    span:
+    - body
+    - 15580
+    - 15613
+  label: 竹茹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4.d84d6
+    span:
+    - body
+    - 15590
+    - 15613
+  label: 品考
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d85
+    span:
+    - body
+    - 15613
+    - 15627
+  label: 亂髮
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ec078_jc_003-d4d86
+    span:
+    - body
+    - 15627
+    - 16489
+  label: 人尿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec078_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3064
+  label: 附言十七則
+  type: section
+  level: 1
+hash: sha256:6a4edd8181c61ad320cd4734b8d9e4aed6ba9a5e0b544dc14653f0de99120a6a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
